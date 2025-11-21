@@ -5,4 +5,4 @@ metadata:
 spec:
   containers:
     - name: my-cont
-      image: ubuntu:latest
+      image: nginx
